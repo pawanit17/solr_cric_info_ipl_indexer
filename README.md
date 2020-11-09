@@ -1,0 +1,1 @@
+# solr_cric_info_ipl_indexer
